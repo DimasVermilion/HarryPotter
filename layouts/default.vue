@@ -15,6 +15,9 @@
                  <li>
                     <nuxt-link to="/houses">Houses</nuxt-link>
                 </li>
+                <li>
+                    <nuxt-link to="/spells">Spells</nuxt-link>
+                </li>
             </ul> 
         </nav>
     </header>
